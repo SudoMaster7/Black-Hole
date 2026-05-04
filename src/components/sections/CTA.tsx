@@ -40,7 +40,7 @@ export function CTA() {
           <h2 className="mt-8 max-w-[18ch] text-5xl font-bold leading-[0.92] tracking-tighter text-white md:text-7xl lg:text-[124px]">
             Build with{" "}
             <span className="bg-gradient-to-r from-amber-200 via-white to-amber-300 bg-clip-text text-transparent">
-              Devini.
+              SUDO.
             </span>
           </h2>
 
